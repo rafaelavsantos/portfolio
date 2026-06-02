@@ -10,7 +10,7 @@ export default function Footer() {
     >
       <Box 
         component='img'
-        src='src\assets\logo.svg'
+        src='\logo.svg'
         alt='Logo'
         sx={{
           width: '35px',
