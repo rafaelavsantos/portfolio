@@ -18,7 +18,8 @@
     "@mui/styled-engine-sc": "^9.0.1",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
-    "styled-components": "^6.4.2"
+    "styled-components": "^6.4.2",
+    "swiper": "^12.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

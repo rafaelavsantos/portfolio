@@ -1,4 +1,15 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  width: 25px !important;
+  height: 25px !important;
+  color: #001B5E !important;
 }
